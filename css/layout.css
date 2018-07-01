@@ -26,11 +26,3 @@
 .featured-row {
   column-count: 2;
 }
-
-.clearfix {
-    overflow: auto;
-}
-
-.shadow {
-  column-span: 1;
-}
