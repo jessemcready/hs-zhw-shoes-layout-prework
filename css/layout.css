@@ -25,7 +25,6 @@
 /* Posititoning Classes */
 .featured-row {
   column-count: 2;
-  column-fill: balance;
 }
 
 .deals-row {
