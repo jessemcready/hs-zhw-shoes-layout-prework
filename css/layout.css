@@ -26,3 +26,7 @@
 .featured-row {
   column-count: 2;
 }
+
+.deals-row {
+  column-count: 3;
+}
