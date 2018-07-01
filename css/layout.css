@@ -25,6 +25,7 @@
 /* Posititoning Classes */
 .featured-row {
   column-count: 2;
+  height: 35%;
 }
 
 .deals-row {
