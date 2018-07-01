@@ -27,6 +27,10 @@
   column-count: 2;
 }
 
+.featured-row section {
+  height: 500px;
+}
+
 .deals-row {
   column-count: 3;
 }
