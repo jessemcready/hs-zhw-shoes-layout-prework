@@ -30,3 +30,7 @@
 .clearfix {
     overflow: auto;
 }
+
+.shadow {
+  column-span: 1;
+}
