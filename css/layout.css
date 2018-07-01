@@ -32,6 +32,6 @@
 }
 
 .archive-list {
-  width: 32%;
+  column-width: 32%;
 }
 
